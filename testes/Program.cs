@@ -22,9 +22,6 @@ Console.Clear();
 while (restart == 's' || restart == 'S')
 {
 
-
-
-
     Console.WriteLine(jogador_a + " escolha seu pokemon");
     do
     {
@@ -48,10 +45,9 @@ while (restart == 's' || restart == 'S')
                         Console.WriteLine("A opção " + certeza + " não é valida, Digite uma opção valida: ");
                     }
                     break;
-                    break;
+                    
                 case 'B':
                 case 'b':
-
                     objpokemon = new Pokemon("Squirtle", 170, 70, 35);
                     Console.WriteLine(objpokemon.getdadospokemon());
                     certeza = char.Parse(Console.ReadLine());
@@ -60,7 +56,6 @@ while (restart == 's' || restart == 'S')
                     {
                         Console.WriteLine("A opção " + certeza + " não é valida, Digite uma opção valida: ");
                     }
-                    break;
                     break;
 
                 case 'C':

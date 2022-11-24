@@ -1,7 +1,5 @@
 using System;
 
-
-
 public class Pokemon
 {
 
