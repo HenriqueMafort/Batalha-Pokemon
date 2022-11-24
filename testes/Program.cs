@@ -40,7 +40,7 @@ while (restart == 's' || restart == 'S')
                 case 'A':
                 case 'a':
                     objpokemon = new Pokemon("Charizard", 190, 45, 50);
-                    Console.WriteLine(objpokemon.getdadospokemon() + objpokemon.getConfirmacaoPokemon());
+                    Console.WriteLine(objpokemon.getdadospokemon());
                     certeza = char.Parse(Console.ReadLine());
                     Console.Clear();
                     if (certeza != 's' || certeza != 'S')
@@ -53,7 +53,7 @@ while (restart == 's' || restart == 'S')
                 case 'b':
 
                     objpokemon = new Pokemon("Squirtle", 170, 70, 35);
-                    Console.WriteLine(objpokemon.getdadospokemon() + objpokemon.getConfirmacaoPokemon());
+                    Console.WriteLine(objpokemon.getdadospokemon());
                     certeza = char.Parse(Console.ReadLine());
                     Console.Clear();
                     if (certeza != 's' || certeza != 'S')
@@ -66,7 +66,7 @@ while (restart == 's' || restart == 'S')
                 case 'C':
                 case 'c':
                     objpokemon = new Pokemon("Pikachu", 120, 90, 50);
-                    Console.WriteLine(objpokemon.getdadospokemon() + objpokemon.getConfirmacaoPokemon());
+                    Console.WriteLine(objpokemon.getdadospokemon());
                     certeza = char.Parse(Console.ReadLine());
                     Console.Clear();
                     if (certeza != 's' || certeza != 'S')

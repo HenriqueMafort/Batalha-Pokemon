@@ -24,14 +24,5 @@ public class Pokemon
 
     public string getdadospokemon()
     {
-        return "nome: " + pokemon + "\r\n" + "Ataque: " + ataque_jogador + "\r\n" + "Cura: " + cura_jogador +  "\r\n";
+        return "nome: " + pokemon + "\r\n" + "Ataque: " + ataque_jogador + "\r\n" + "Cura: " + cura_jogador +  "\r\n" + "Você tem certeza da sua opnião?" + "\r\n" + "Digite 'S' ou 'N'";
     }
-
-    public string getConfirmacaoPokemon()
-    {
-        return "Você tem certeza da sua opnião?" + "\r\n" + "Digite 'S' ou 'N'";
-    }
-
- 
-}
-
