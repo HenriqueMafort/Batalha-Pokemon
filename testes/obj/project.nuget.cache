@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+cI2whSWXBom9oPuMoBj25d0vbV1khpceXTtlUMHkUmUM3NWoaQLbvZawC8cREB9i+lRuZrFGHw8ApLiw9A/g==",
+  "dgSpecHash": "wCUUxEnJqOqUIRT0nbjpuEqBz6/HrtGl3N1UVrTqCXrXBBuoHX4FAEtlojgyYydmZTtG4Zo/R3cM/rzat8vuwg==",
   "success": true,
-  "projectFilePath": "Z:\\teste\\testes\\testes.csproj",
+  "projectFilePath": "Z:\\teste\\Batalha-Pokemon\\testes\\testes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\teste\\testes\\testes.csproj",
+      "projectUniqueName": "Z:\\teste\\Batalha-Pokemon\\testes\\testes.csproj",
       "projectName": "testes",
-      "projectPath": "Z:\\teste\\testes\\testes.csproj",
+      "projectPath": "Z:\\teste\\Batalha-Pokemon\\testes\\testes.csproj",
       "packagesPath": "C:\\Users\\carlos.rocha\\.nuget\\packages\\",
-      "outputPath": "Z:\\teste\\testes\\obj\\",
+      "outputPath": "Z:\\teste\\Batalha-Pokemon\\testes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlos.rocha\\AppData\\Roaming\\NuGet\\NuGet.Config",
